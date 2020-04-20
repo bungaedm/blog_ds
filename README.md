@@ -1,2 +1,2 @@
 # blog
-# how can i change this to more simp
+### how can i change this to better README file
