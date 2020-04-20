@@ -1,5 +1,5 @@
 ---
-title: "한글 RStudio 쉽지 않네"
+title: "RStudio로 블로그 만들기"
 author: "SonJiwoo"
 date: 2020-04-20T18:13:14-05:00
 categories: ["R"]
