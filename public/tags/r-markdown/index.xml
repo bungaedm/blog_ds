@@ -6,10 +6,28 @@
     <description>Recent content in R Markdown on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2020 20:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2020 20:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>모델링 공부</title>
+      <link>/2020/06/01/%EB%AA%A8%EB%8D%B8%EB%A7%81-%EA%B3%B5%EB%B6%80/</link>
+      <pubDate>Mon, 01 Jun 2020 20:13:14 -0500</pubDate>
+      
+      <guid>/2020/06/01/%EB%AA%A8%EB%8D%B8%EB%A7%81-%EA%B3%B5%EB%B6%80/</guid>
+      <description>AdaBoostlibrary(rpart)library(adabag)## Warning: package &amp;#39;adabag&amp;#39; was built under R version 3.6.3## Loading required package: caret## Warning: package &amp;#39;caret&amp;#39; was built under R version 3.6.3## Loading required package: lattice## Warning: package &amp;#39;lattice&amp;#39; was built under R version 3.6.3## Loading required package: ggplot2## Warning: package &amp;#39;ggplot2&amp;#39; was built under R version 3.6.3## Loading required package: foreach## Warning: package &amp;#39;foreach&amp;#39; was built under R version 3.</description>
+    </item>
+    
+    <item>
+      <title>[DataCamp]Working with Data in the Tidyverse</title>
+      <link>/2020/05/05/datacampworking-with-data-in-the-tidyverse/</link>
+      <pubDate>Tue, 05 May 2020 20:13:14 -0500</pubDate>
+      
+      <guid>/2020/05/05/datacampworking-with-data-in-the-tidyverse/</guid>
+      <description>library(dplyr)## ## 다음의 패키지를 부착합니다: &amp;#39;dplyr&amp;#39;## The following objects are masked from &amp;#39;package:stats&amp;#39;:## ## filter, lag## The following objects are masked from &amp;#39;package:base&amp;#39;:## ## intersect, setdiff, setequal, unionlibrary(skimr)## Warning: 패키지 &amp;#39;skimr&amp;#39;는 R 버전 3.6.3에서 작성되었습니다library(readr)library(janitor)## Warning: 패키지 &amp;#39;janitor&amp;#39;는 R 버전 3.6.3에서 작성되었습니다## ## 다음의 패키지를 부착합니다: &amp;#39;janitor&amp;#39;## The following objects are masked from &amp;#39;package:stats&amp;#39;:## ## chisq.test, fisher.</description>
+    </item>
     
     <item>
       <title>이렇게 하는게 맞나</title>
