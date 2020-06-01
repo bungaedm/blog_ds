@@ -10,9 +10,14 @@ tags: ["R Markdown", "plot", "regression"]
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
+# Decision Tree
+의사결정나무
+
+# Bagging
+Bootstrap Aggregating
+
+# Random Forest
+
 # AdaBoost
 
-```{r}
-library(rpart)
-library(adabag)
-```
+# Gradient Boost

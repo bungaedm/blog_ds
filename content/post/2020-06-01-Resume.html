@@ -1,0 +1,28 @@
+---
+title: "이력서"
+author: "SonJiwoo"
+date: 2020-06-01T20:18:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+
+
+<pre class="r"><code>library(magick)
+## Warning: 패키지 &#39;magick&#39;는 R 버전 3.6.3에서 작성되었습니다
+## Linking to ImageMagick 6.9.9.14
+## Enabled features: cairo, freetype, fftw, ghostscript, lcms, pango, rsvg, webp
+## Disabled features: fontconfig, x11
+library(pdftools)
+## Warning: 패키지 &#39;pdftools&#39;는 R 버전 3.6.3에서 작성되었습니다
+## Using poppler version 0.73.0
+resume_path &lt;- &quot;../../resume/resume.pdf&quot;
+
+resume &lt;- image_read_pdf(resume_path, density=250)
+## PDF error: Could not parse ligature component &quot;envelope&quot; of &quot;envelope_alt&quot; in parseCharName
+## PDF error: Could not parse ligature component &quot;alt&quot; of &quot;envelope_alt&quot; in parseCharName
+## PDF error: Could not parse ligature component &quot;map&quot; of &quot;map_marker&quot; in parseCharName
+## PDF error: Could not parse ligature component &quot;marker&quot; of &quot;map_marker&quot; in parseCharName
+
+resume</code></pre>
+<p><img src="/post/2020-06-01-Resume_files/figure-html/unnamed-chunk-1-1.png" width="1034" /></p>

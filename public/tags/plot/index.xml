@@ -6,10 +6,19 @@
     <description>Recent content in plot on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2020 20:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2020 20:18:14 -0500</lastBuildDate>
     
 	<atom:link href="/tags/plot/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>이력서</title>
+      <link>/2020/06/01/%EC%9D%B4%EB%A0%A5%EC%84%9C/</link>
+      <pubDate>Mon, 01 Jun 2020 20:18:14 -0500</pubDate>
+      
+      <guid>/2020/06/01/%EC%9D%B4%EB%A0%A5%EC%84%9C/</guid>
+      <description>library(magick)## Warning: 패키지 &amp;#39;magick&amp;#39;는 R 버전 3.6.3에서 작성되었습니다## Linking to ImageMagick 6.9.9.14## Enabled features: cairo, freetype, fftw, ghostscript, lcms, pango, rsvg, webp## Disabled features: fontconfig, x11library(pdftools)## Warning: 패키지 &amp;#39;pdftools&amp;#39;는 R 버전 3.6.3에서 작성되었습니다## Using poppler version 0.73.0resume_path &amp;lt;- &amp;quot;../../resume/resume.pdf&amp;quot;resume &amp;lt;- image_read_pdf(resume_path, density=250)## PDF error: Could not parse ligature component &amp;quot;envelope&amp;quot; of &amp;quot;envelope_alt&amp;quot; in parseCharName## PDF error: Could not parse ligature component &amp;quot;alt&amp;quot; of &amp;quot;envelope_alt&amp;quot; in parseCharName## PDF error: Could not parse ligature component &amp;quot;map&amp;quot; of &amp;quot;map_marker&amp;quot; in parseCharName## PDF error: Could not parse ligature component &amp;quot;marker&amp;quot; of &amp;quot;map_marker&amp;quot; in parseCharNameresume</description>
+    </item>
     
     <item>
       <title>모델링 공부</title>
@@ -17,7 +26,9 @@
       <pubDate>Mon, 01 Jun 2020 20:13:14 -0500</pubDate>
       
       <guid>/2020/06/01/%EB%AA%A8%EB%8D%B8%EB%A7%81-%EA%B3%B5%EB%B6%80/</guid>
-      <description>AdaBoostlibrary(rpart)library(adabag)## Warning: package &amp;#39;adabag&amp;#39; was built under R version 3.6.3## Loading required package: caret## Warning: package &amp;#39;caret&amp;#39; was built under R version 3.6.3## Loading required package: lattice## Warning: package &amp;#39;lattice&amp;#39; was built under R version 3.6.3## Loading required package: ggplot2## Warning: package &amp;#39;ggplot2&amp;#39; was built under R version 3.6.3## Loading required package: foreach## Warning: package &amp;#39;foreach&amp;#39; was built under R version 3.</description>
+      <description>Decision Tree의사결정나무
+BaggingBootstrap Aggregating
+Random ForestAdaBoostGradient Boost</description>
     </item>
     
     <item>
