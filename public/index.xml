@@ -33,10 +33,10 @@ FAMD Factor Anaylsis of Mixed Data참고자료: http://www.sthda.com/english/wi
     
     <item>
       <title>모델링 공부 1</title>
-      <link>/2020/06/01/%EB%AA%A8%EB%8D%B8%EB%A7%81-%EA%B3%B5%EB%B6%80-1/</link>
-      <pubDate>Mon, 01 Jun 2020 20:13:14 -0500</pubDate>
+      <link>/2020/05/31/%EB%AA%A8%EB%8D%B8%EB%A7%81-%EA%B3%B5%EB%B6%80-1/</link>
+      <pubDate>Sun, 31 May 2020 20:13:14 -0500</pubDate>
       
-      <guid>/2020/06/01/%EB%AA%A8%EB%8D%B8%EB%A7%81-%EA%B3%B5%EB%B6%80-1/</guid>
+      <guid>/2020/05/31/%EB%AA%A8%EB%8D%B8%EB%A7%81-%EA%B3%B5%EB%B6%80-1/</guid>
       <description>Decision Tree의사결정나무
 #rpart 사용BaggingBootstrap Aggregating
 Random ForestAdaBoostGradient Boost</description>
