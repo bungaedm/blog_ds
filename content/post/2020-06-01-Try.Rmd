@@ -1,5 +1,5 @@
 ---
-title: "모델링 공부 #1"
+title: "모델링 공부 1"
 author: "SonJiwoo"
 date: 2020-06-01T20:13:14-05:00
 categories: ["R"]
@@ -12,6 +12,10 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 # Decision Tree
 의사결정나무
+
+```{r}
+#rpart 사용
+```
 
 # Bagging
 Bootstrap Aggregating
