@@ -6,10 +6,21 @@
     <description>Recent content in R Markdown on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2020 20:18:14 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2020 20:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>모델링 공부 #2</title>
+      <link>/2020/06/02/%EB%AA%A8%EB%8D%B8%EB%A7%81-%EA%B3%B5%EB%B6%80-#2/</link>
+      <pubDate>Tue, 02 Jun 2020 20:13:14 -0500</pubDate>
+      
+      <guid>/2020/06/02/%EB%AA%A8%EB%8D%B8%EB%A7%81-%EA%B3%B5%EB%B6%80-#2/</guid>
+      <description>Factor Analyisis요인분석
+FAMD Factor Anaylsis of Mixed Data참고자료: http://www.sthda.com/english/wiki/factoextra-r-package-easy-multivariate-data-analyses-and-elegant-visualization
+</description>
+    </item>
     
     <item>
       <title>이력서</title>
@@ -21,11 +32,11 @@
     </item>
     
     <item>
-      <title>모델링 공부</title>
-      <link>/2020/06/01/%EB%AA%A8%EB%8D%B8%EB%A7%81-%EA%B3%B5%EB%B6%80/</link>
+      <title>모델링 공부 #1</title>
+      <link>/2020/06/01/%EB%AA%A8%EB%8D%B8%EB%A7%81-%EA%B3%B5%EB%B6%80-#1/</link>
       <pubDate>Mon, 01 Jun 2020 20:13:14 -0500</pubDate>
       
-      <guid>/2020/06/01/%EB%AA%A8%EB%8D%B8%EB%A7%81-%EA%B3%B5%EB%B6%80/</guid>
+      <guid>/2020/06/01/%EB%AA%A8%EB%8D%B8%EB%A7%81-%EA%B3%B5%EB%B6%80-#1/</guid>
       <description>Decision Tree의사결정나무
 BaggingBootstrap Aggregating
 Random ForestAdaBoostGradient Boost</description>
