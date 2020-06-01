@@ -6,19 +6,10 @@
     <description>Recent content in Posts on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 May 2020 06:49:14 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2020 20:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>DataCamp Study</title>
-      <link>/2020/05/05/datacamp-study/</link>
-      <pubDate>Tue, 05 May 2020 06:49:14 -0500</pubDate>
-      
-      <guid>/2020/05/05/datacamp-study/</guid>
-      <description>library(dplyr)## ## 다음의 패키지를 부착합니다: &amp;#39;dplyr&amp;#39;## The following objects are masked from &amp;#39;package:stats&amp;#39;:## ## filter, lag## The following objects are masked from &amp;#39;package:base&amp;#39;:## ## intersect, setdiff, setequal, unionlibrary(skimr)## Warning: 패키지 &amp;#39;skimr&amp;#39;는 R 버전 3.6.3에서 작성되었습니다library(readr)library(janitor)## Warning: 패키지 &amp;#39;janitor&amp;#39;는 R 버전 3.6.3에서 작성되었습니다## ## 다음의 패키지를 부착합니다: &amp;#39;janitor&amp;#39;## The following objects are masked from &amp;#39;package:stats&amp;#39;:## ## chisq.test, fisher.</description>
-    </item>
     
     <item>
       <title>이렇게 하는게 맞나</title>
@@ -59,6 +50,16 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       
       <guid>/2015/01/01/lorem-ipsum/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/1/01/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1/01/01/</guid>
+      <description>[DataCamp]Working with Data in the Tidyverse 2020-05-05T06:49:14-05:00
+library(dplyr)## ## Attaching package: &#39;dplyr&#39;## The following objects are masked from &#39;package:stats&#39;:## ## filter, lag## The following objects are masked from &#39;package:base&#39;:## ## intersect, setdiff, setequal, union library(skimr)## Warning: package &#39;skimr&#39; was built under R version 3.6.3 library(readr)library(janitor)## Warning: package &#39;janitor&#39; was built under R version 3.6.3## ## Attaching package: &#39;janitor&#39;## The following objects are masked from &#39;package:stats&#39;:## ## chisq.</description>
     </item>
     
     <item>

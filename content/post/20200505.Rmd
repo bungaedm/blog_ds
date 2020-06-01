@@ -1,5 +1,5 @@
 ---
-title: "DataCamp Study"
+title: "[DataCamp]Working with Data in the Tidyverse"
 date: 2020-05-05T06:49:14-05:00
 output: github_document
 ---
