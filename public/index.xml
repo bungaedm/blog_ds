@@ -36,9 +36,9 @@ FAMD Factor Anaylsis of Mixed Data데이터에는 질적인 정보를 담고 �
       <pubDate>Sun, 31 May 2020 20:13:14 -0500</pubDate>
       
       <guid>/2020/05/31/%EB%AA%A8%EB%8D%B8%EB%A7%81-%EA%B3%B5%EB%B6%80-1/</guid>
-      <description>Decision Tree의사결정나무
-#rpart 사용BaggingBootstrap Aggregating
-Random ForestAdaBoostGradient Boost</description>
+      <description>Decision Tree의사결정나무
+#rpart 사용BaggingBootstrap Aggregating의 약자이다.Bagging을 이해하기 위해서는 Boostrap이 무엇인지 알아야한다. Bootstrap은 쉽게 말해 복원추출이라고 생각하면 된다.일반적으로는 기존의 데이터셋의 크기와 같은 크기로 복원추출하여 여러 개의 Bootstrap Sample set을 만든다. 여기서 각각의 데이터셋으로 의사결정나무를 만들고, 이들을 통합하여 모형을 만든다. 그렇기 때문에 이를 Ensemble Learning이라고 하는 것이다.
+Random ForestRandom Forest는 Bagging의 업그레이드 버전이라고 생각하면 된다. Bagging이 행렬 데이터에서 행만을 재구성했다면, Random Forest는 행뿐만 아니라 열까지도 재구성하는 작업이다.</description>
     </item>
     
     <item>
