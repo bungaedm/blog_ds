@@ -50,36 +50,5 @@
 Random ForestRandom Forest는 Bagging의 업그레이드 버전이라고 생각하면 된다. Bagging이 행렬 데이터에서 행만을 재구성했다면, Random Forest는 행뿐만 아니라 열까지도 재구성하는 작업이다.</description>
     </item>
     
-    <item>
-      <title>[DataCamp]Working with Data in the Tidyverse</title>
-      <link>/2020/05/05/datacampworking-with-data-in-the-tidyverse/</link>
-      <pubDate>Tue, 05 May 2020 20:13:14 -0500</pubDate>
-      
-      <guid>/2020/05/05/datacampworking-with-data-in-the-tidyverse/</guid>
-      <description>library(dplyr)## ## 다음의 패키지를 부착합니다: &amp;#39;dplyr&amp;#39;## The following objects are masked from &amp;#39;package:stats&amp;#39;:## ## filter, lag## The following objects are masked from &amp;#39;package:base&amp;#39;:## ## intersect, setdiff, setequal, unionlibrary(skimr)## Warning: 패키지 &amp;#39;skimr&amp;#39;는 R 버전 3.6.3에서 작성되었습니다library(readr)library(janitor)## Warning: 패키지 &amp;#39;janitor&amp;#39;는 R 버전 3.6.3에서 작성되었습니다## ## 다음의 패키지를 부착합니다: &amp;#39;janitor&amp;#39;## The following objects are masked from &amp;#39;package:stats&amp;#39;:## ## chisq.test, fisher.</description>
-    </item>
-    
-    <item>
-      <title>이렇게 하는게 맞나</title>
-      <link>/2020/04/20/%EC%9D%B4%EB%A0%87%EA%B2%8C-%ED%95%98%EB%8A%94%EA%B2%8C-%EB%A7%9E%EB%82%98/</link>
-      <pubDate>Mon, 20 Apr 2020 20:13:14 -0500</pubDate>
-      
-      <guid>/2020/04/20/%EC%9D%B4%EB%A0%87%EA%B2%8C-%ED%95%98%EB%8A%94%EA%B2%8C-%EB%A7%9E%EB%82%98/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
-    </item>
-    
-    <item>
-      <title>RStudio로 블로그 만들기</title>
-      <link>/2020/04/20/rstudio%EB%A1%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0/</link>
-      <pubDate>Mon, 20 Apr 2020 18:13:14 -0500</pubDate>
-      
-      <guid>/2020/04/20/rstudio%EB%A1%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
-    </item>
-    
   </channel>
 </rss>
