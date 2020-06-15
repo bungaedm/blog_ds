@@ -1,5 +1,5 @@
 ---
-title: "모델링 공부 2"
+title: "범주형 변수"
 author: "SonJiwoo"
 date: 2020-05-31T20:16:14-05:00
 categories: ["R"]

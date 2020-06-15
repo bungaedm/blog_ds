@@ -1,5 +1,5 @@
 ---
-title: "모델링 공부 1"
+title: "머신 러닝"
 author: "SonJiwoo"
 date: 2020-05-31T20:13:14-05:00
 categories: ["R"]
@@ -9,14 +9,11 @@ tags: ["R Markdown", "plot", "regression"]
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
 ```
-
-# Decision Tree
+# 기초
+## Decision Tree
 의사결정나무
 
-```{r}
-#rpart 사용
-```
-# Variance 낮추기
+# 1. Variance 낮추기
 ## Bagging
 Bootstrap Aggregating의 약자이다.
 Bagging을 이해하기 위해서는 Boostrap이 무엇인지 알아야한다. Bootstrap은 쉽게 말해 복원추출이라고 생각하면 된다.
@@ -25,7 +22,7 @@ Bagging을 이해하기 위해서는 Boostrap이 무엇인지 알아야한다. B
 ## Random Forest
 Random Forest는 Bagging의 업그레이드 버전이라고 생각하면 된다. Bagging이 행렬 데이터에서 행만을 재구성했다면, Random Forest는 행뿐만 아니라 열까지도 재구성하는 작업이다. 만약 Bagging에 있어서 엄청나게 영향력 강한 변수가 있다면, 아무리 부트스트랩 데이터셋이 다양하게 만들어졌다고 해도 결국 그 변수로 수렴하여 설명하는 의사결정나무 모형만이 나올 것이다. 이러한 문제점을 극복하기 위해 열도 재구성하는 것이다. 그리고 그러한 과정이 tree를 random하게 산출하기 때문에 Random Forest이라는 이름이 만들어졌다고 한다.
 
-#Bias 낮추기
+# 2. Bias 낮추기
 ## AdaBoost
 Boosting의 시초는 Adaboost이다. Adaboost는 약간 변태적인 성격을 가진 머신러닝기법이다. 일종의 오답풀이를 엄청하는 모델이라고 생각하면 된다. Bagging과 RandomForest가 다양한 Bootstrap sample set에 대해서 평행하게(parallel) 의사결정나무를 만드는 데에 반해, Boosting은 오분류된 데이터들에 대해서 가중치를 높여 다음에 더 높은 확률로 뽑은 후 모델을 만드는 것이 목적이다. 즉, Boosting은 Sequential하다.
 

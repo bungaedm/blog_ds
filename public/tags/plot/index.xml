@@ -30,23 +30,23 @@
     </item>
     
     <item>
-      <title>모델링 공부 2</title>
-      <link>/2020/05/31/%EB%AA%A8%EB%8D%B8%EB%A7%81-%EA%B3%B5%EB%B6%80-2/</link>
+      <title>범주형 변수</title>
+      <link>/2020/05/31/%EB%B2%94%EC%A3%BC%ED%98%95-%EB%B3%80%EC%88%98/</link>
       <pubDate>Sun, 31 May 2020 20:16:14 -0500</pubDate>
       
-      <guid>/2020/05/31/%EB%AA%A8%EB%8D%B8%EB%A7%81-%EA%B3%B5%EB%B6%80-2/</guid>
+      <guid>/2020/05/31/%EB%B2%94%EC%A3%BC%ED%98%95-%EB%B3%80%EC%88%98/</guid>
       <description>Factor Analyisis요인 분석대표적인 예시로는 심리학의 성격 5요인 분석이 있다. 과거 Cattell은 성격을 16가지의 성격으로 분류하였는데,현대심리학에서는 FA를 활용하여 5개 성격 요인으로 구분하고 있다.참고로, 그 다섯가지 성격은 외향성(Extraversion), 신경증(Neuroticism), 성실성(Conscientiousness), 원만성(Agreeableness), 개방성(Openness to Experience)으로 구성되어 있다.
 FA와 PCA의 차이FA는 공분산 위주의 분석이며, PCA는 분산 위주의 분석이라고 생각하면 된다.이때 PCA는 수학적으로는 유의미한 접근이나 현실적인 해석에 있어서는 접근이 어렵다.하지만, FA의 경우는 하나의 Factor를 다양한 변수들의 조합으로 구성하는 것이기 때문에 해석적인 측면에 있어서 우위를 갖는다.</description>
     </item>
     
     <item>
-      <title>모델링 공부 1</title>
-      <link>/2020/05/31/%EB%AA%A8%EB%8D%B8%EB%A7%81-%EA%B3%B5%EB%B6%80-1/</link>
+      <title>머신 러닝</title>
+      <link>/2020/05/31/%EB%A8%B8%EC%8B%A0-%EB%9F%AC%EB%8B%9D/</link>
       <pubDate>Sun, 31 May 2020 20:13:14 -0500</pubDate>
       
-      <guid>/2020/05/31/%EB%AA%A8%EB%8D%B8%EB%A7%81-%EA%B3%B5%EB%B6%80-1/</guid>
-      <description>Decision Tree의사결정나무
-#rpart 사용Variance 낮추기BaggingBootstrap Aggregating의 약자이다.Bagging을 이해하기 위해서는 Boostrap이 무엇인지 알아야한다. Bootstrap은 쉽게 말해 복원추출이라고 생각하면 된다.일반적으로는 기존의 데이터셋의 크기와 같은 크기로 복원추출하여 여러 개의 Bootstrap Sample set을 만든다. 여기서 각각의 데이터셋으로 의사결정나무를 만들고, 이들을 통합하여 모형을 만든다. 그렇기 때문에 이를 Ensemble Learning이라고 하는 것이다.
+      <guid>/2020/05/31/%EB%A8%B8%EC%8B%A0-%EB%9F%AC%EB%8B%9D/</guid>
+      <description>기초Decision Tree의사결정나무
+1. Variance 낮추기BaggingBootstrap Aggregating의 약자이다.Bagging을 이해하기 위해서는 Boostrap이 무엇인지 알아야한다. Bootstrap은 쉽게 말해 복원추출이라고 생각하면 된다.일반적으로는 기존의 데이터셋의 크기와 같은 크기로 복원추출하여 여러 개의 Bootstrap Sample set을 만든다. 여기서 각각의 데이터셋으로 의사결정나무를 만들고, 이들을 통합하여 모형을 만든다. 그렇기 때문에 이를 Ensemble Learning이라고 하는 것이다.
 Random ForestRandom Forest는 Bagging의 업그레이드 버전이라고 생각하면 된다. Bagging이 행렬 데이터에서 행만을 재구성했다면, Random Forest는 행뿐만 아니라 열까지도 재구성하는 작업이다.</description>
     </item>
     
