@@ -6,10 +6,20 @@
     <description>Recent content in regression on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2020 20:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2020 20:16:14 -0500</lastBuildDate>
     
 	<atom:link href="/tags/regression/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>베이즈 통계</title>
+      <link>/2020/06/12/%EB%B2%A0%EC%9D%B4%EC%A6%88-%ED%86%B5%EA%B3%84/</link>
+      <pubDate>Fri, 12 Jun 2020 20:16:14 -0500</pubDate>
+      
+      <guid>/2020/06/12/%EB%B2%A0%EC%9D%B4%EC%A6%88-%ED%86%B5%EA%B3%84/</guid>
+      <description>베이즈 통계통계학을 크게 두 분류로 나누어 보자면, Frequentist approach와 Bayesian approach로 나눌 수 있다.Bayesian approach에서는 parameter를 확률변수로 본다.
+# Utility programs for use with the book,# Kruschke, J. K. (2015). Doing Bayesian Data Analysis, Second Edition: # A Tutorial with R, JAGS, and Stan. Academic Press / Elsevier.# This file contains several functions that are called by other programs# or can be called directly by the user.</description>
+    </item>
     
     <item>
       <title>순서형 변수</title>
