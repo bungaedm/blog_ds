@@ -1,0 +1,14 @@
+---
+title: "RESUME"
+author: ''
+date: ''
+slug: resume
+tags: R Markdown
+categories: R
+---
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(pdftools)
+library(magick)
+pdf_01 <- pdf_render_page("Resume_SonJiwoo.pdf", page = 1, dpi = 200, numeric = FALSE)
+image_read(pdf_01)
+```
