@@ -31,15 +31,6 @@
     </item>
     
     <item>
-      <title>이력서</title>
-      <link>/2020/06/01/%EC%9D%B4%EB%A0%A5%EC%84%9C/</link>
-      <pubDate>Mon, 01 Jun 2020 20:18:14 -0500</pubDate>
-      
-      <guid>/2020/06/01/%EC%9D%B4%EB%A0%A5%EC%84%9C/</guid>
-      <description>library(magick)## Warning: 패키지 &amp;#39;magick&amp;#39;는 R 버전 3.6.3에서 작성되었습니다## Linking to ImageMagick 6.9.9.14## Enabled features: cairo, freetype, fftw, ghostscript, lcms, pango, rsvg, webp## Disabled features: fontconfig, x11library(pdftools)## Warning: 패키지 &amp;#39;pdftools&amp;#39;는 R 버전 3.6.3에서 작성되었습니다## Using poppler version 0.73.0resume_path &amp;lt;- &amp;quot;../../resume/resume.pdf&amp;quot;resume &amp;lt;- image_read_pdf(resume_path, density=250)## PDF error: Could not parse ligature component &amp;quot;envelope&amp;quot; of &amp;quot;envelope_alt&amp;quot; in parseCharName## PDF error: Could not parse ligature component &amp;quot;alt&amp;quot; of &amp;quot;envelope_alt&amp;quot; in parseCharName## PDF error: Could not parse ligature component &amp;quot;map&amp;quot; of &amp;quot;map_marker&amp;quot; in parseCharName## PDF error: Could not parse ligature component &amp;quot;marker&amp;quot; of &amp;quot;map_marker&amp;quot; in parseCharNameresume</description>
-    </item>
-    
-    <item>
       <title>범주형 변수</title>
       <link>/2020/05/31/%EB%B2%94%EC%A3%BC%ED%98%95-%EB%B3%80%EC%88%98/</link>
       <pubDate>Sun, 31 May 2020 20:16:14 -0500</pubDate>
